@@ -1,4 +1,4 @@
-# [nyuqnl.github.io](https://nyuqnl.github.io/)
+# [qnlab.github.io](https://qnlab.github.io/)
 ## NYU Quantum Nanoelectronics Lab
 We work in Quantum Nanoelectronics Lab (QNL) in the department of Electrical and Computer Engineering at NYU. 
 Our work lies at the intersection of applied physics and electrical engineering. 
