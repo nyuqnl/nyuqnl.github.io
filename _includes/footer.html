@@ -20,7 +20,12 @@
         </div>
   
         <div class="footer-col footer-col-3">
-          <p>{{- site.description | escape -}}</p>
+          <p>
+            <i>{{- site.description | escape -}}</i><br>
+            {{- site.school | escape -}}<br>
+            {{- site.address | escape -}}<br>
+            {{- site.city | escape -}}
+          </p>
         </div>
       </div>
   
