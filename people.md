@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 ### PI
-* [Shaloo Rakheja](http://engineering.nyu.edu/faculty/shaloo-rakheja){:target="_blank"}, Associate Professor
+* [Shaloo Rakheja](http://engineering.nyu.edu/faculty/shaloo-rakheja){:target="_blank"}, Assistant Professor
 
 ### Postdocs
 * [Sheikh Aamir Ahsan](), PhD
