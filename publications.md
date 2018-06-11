@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### 2018
+1805. Parthasarathy, A., & Rakheja, S. (2018). Reversal time of jump-noise magnetization dynamics in nanomagnets via Monte Carlo simulations. Journal of Applied Physics, 123(22), 223901. (doi: [10.1063/1.5025691](https://doi.org/10.1063/1.5025691){:target="_blank"})
 1804. Li, K., & Rakheja, S. (2018). An analytic current-voltage model for quasi-ballistic III-nitride high electron mobility transistors. Journal of Applied Physics, 123(18), 184501. (doi: [10.1063/1.5025339]( https://doi.org/10.1063/1.5025339){:target="_blank"})
 1803. Patnaik, S., Rangarajan, N., Knechtel, J., Sinanoglu, O., & Rakheja, S. (2018, March). Advancing hardware security using polymorphic and stochastic spin-hall effect devices. In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2018 (pp. 97-102). IEEE. (doi: [10.23919/DATE.2018.8341986](https://doi.org/ 10.23919/DATE.2018.8341986){:target="_blank"})
 1802. Rakheja, S., Flattè, M. E., & Kent, A. D. (2018). Voltage-Controlled Topological-Spin Switch for Ultra-Low-Energy Computing--Performance Modeling and Benchmarking. arXiv preprint (arXiv: [1802.07893](https://arxiv.org/abs/1802.07893){:target="_blank"}).
