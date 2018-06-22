@@ -27,3 +27,6 @@ permalink: /people/
 * Gabriela Lopez (Undergraduate student, spring 2016)
 * Pranav Kumar(Intern, summer 2016)
 * Vaibhav Pandey (Intern, summer 2016)
+
+## Positions
+There are no open positions available at this time. 
