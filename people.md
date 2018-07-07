@@ -17,10 +17,8 @@ permalink: /people/
 * [Nikhil Rangarajan](http://engineering.nyu.edu/nikhil-rangarajan){:target="_blank"}
 * [Elahe Yarmoghaddam](http://engineering.nyu.edu/elahe-yarmoghaddam){:target="_blank"}
 
-### Masters students 
-* [Suhaila Mumtaj Shakiah]()
-
 ### Alumni
+* Suhaila Mumtaj Shakiah (Masters student, spring 2018)
 * Naman Kumar Gupta (Intern, summer 2017)
 * Ruturaj Nandkumar Pujari (Masters student, spring 2016)
 * Ying Zhu (Undergraduate student, spring 2016)
